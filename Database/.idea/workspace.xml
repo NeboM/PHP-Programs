@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c55a5990-ae4f-4ee2-bee2-0637bcdb07ff" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Datastructures in PHP/SplDoublyLinkedList/LinkedListVsArray.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Datastructures in PHP/SplDoublyLinkedList/LinkedListVsArray.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Datastructures in PHP/SplDoublyLinkedList/SplDoublyLinkedListMethods.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Datastructures in PHP/SplDoublyLinkedList/SplDoublyLinkedListMethods.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Datastructures in PHP/SplDoublyLinkedList/SplitLinkedList.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Datastructures in PHP/SplDoublyLinkedList/SplitLinkedList.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Datastructures in PHP/SplHeap/SplHeap.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Datastructures in PHP/SplHeap/SplHeap.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Datastructures in PHP/SplHeap/SplMaxHeap.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Datastructures in PHP/SplHeap/SplMaxHeap.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Datastructures in PHP/SplHeap/SplMinHeap.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Datastructures in PHP/SplHeap/SplMinHeap.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../File Upload/uploads/1552439314.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../File Upload/uploads/1552439314.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../File Upload/uploads/1552439347.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../File Upload/uploads/1552439347.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../File Upload/uploads/1552439382.png" beforeDir="false" afterPath="$PROJECT_DIR$/../File Upload/uploads/1552439382.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Form Validation/example.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Form Validation/example.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Form Validation/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Form Validation/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Form Validation/validate.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Form Validation/validate.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Login System/auth/login.auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Login System/auth/login.auth.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Login System/auth/logout.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Login System/auth/logout.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Login System/auth/register.auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Login System/auth/register.auth.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Login System/config/Database.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Login System/config/Database.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Login System/includes/authenticated.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Login System/includes/authenticated.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Login System/includes/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Login System/includes/footer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Login System/includes/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Login System/includes/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Login System/includes/messages.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Login System/includes/messages.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Login System/includes/notAuthenticated.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Login System/includes/notAuthenticated.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Login System/login_system.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../Login System/login_system.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Login System/model/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Login System/model/User.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Login System/public/home.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Login System/public/home.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Login System/public/login.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Login System/public/login.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Login System/public/register.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Login System/public/register.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Login System/screenshots/home.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Login System/screenshots/home.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Login System/screenshots/login.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Login System/screenshots/login.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Login System/screenshots/register.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Login System/screenshots/register.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP in PHP/classes/Database.php" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP in PHP/classes/Database.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP in PHP/classes/MagicMethods.php" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP in PHP/classes/MagicMethods.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP in PHP/classes/inheritance.php" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP in PHP/classes/inheritance.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP in PHP/classes/interfaceVsAbstractClass.php" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP in PHP/classes/interfaceVsAbstractClass.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP in PHP/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP in PHP/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PHP REST API/api/category/create.php" beforeDir="false" afterPath="$PROJECT_DIR$/../PHP REST API/api/category/create.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PHP REST API/api/category/delete.php" beforeDir="false" afterPath="$PROJECT_DIR$/../PHP REST API/api/category/delete.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PHP REST API/api/category/read.php" beforeDir="false" afterPath="$PROJECT_DIR$/../PHP REST API/api/category/read.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PHP REST API/api/category/read_single.php" beforeDir="false" afterPath="$PROJECT_DIR$/../PHP REST API/api/category/read_single.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PHP REST API/api/category/update.php" beforeDir="false" afterPath="$PROJECT_DIR$/../PHP REST API/api/category/update.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PHP REST API/api/post/create.php" beforeDir="false" afterPath="$PROJECT_DIR$/../PHP REST API/api/post/create.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PHP REST API/api/post/delete.php" beforeDir="false" afterPath="$PROJECT_DIR$/../PHP REST API/api/post/delete.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PHP REST API/api/post/read.php" beforeDir="false" afterPath="$PROJECT_DIR$/../PHP REST API/api/post/read.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PHP REST API/api/post/read_single.php" beforeDir="false" afterPath="$PROJECT_DIR$/../PHP REST API/api/post/read_single.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PHP REST API/api/post/update.php" beforeDir="false" afterPath="$PROJECT_DIR$/../PHP REST API/api/post/update.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PHP REST API/config/Database.php" beforeDir="false" afterPath="$PROJECT_DIR$/../PHP REST API/config/Database.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PHP REST API/models/Category.php" beforeDir="false" afterPath="$PROJECT_DIR$/../PHP REST API/models/Category.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PHP REST API/models/Post.php" beforeDir="false" afterPath="$PROJECT_DIR$/../PHP REST API/models/Post.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PHP REST API/myblog.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../PHP REST API/myblog.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PHP REST API/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/../PHP REST API/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Routing/css/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Routing/css/custom.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Routing/pages/404.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Routing/pages/404.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Routing/pages/about.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Routing/pages/about.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Routing/pages/home.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Routing/pages/home.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Routing/pages/inc/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Routing/pages/inc/footer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Routing/pages/inc/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Routing/pages/inc/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Routing/pages/posts.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Routing/pages/posts.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Routing/route.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Routing/route.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Routing/screenshots/404.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Routing/screenshots/404.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Routing/screenshots/about.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Routing/screenshots/about.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Routing/screenshots/home.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Routing/screenshots/home.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Routing/screenshots/posts.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Routing/screenshots/posts.png" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="17" lean-forward="true" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>prepare</find>
+      <find>100),(6,'Product 0A0',4</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/index.php" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-639" />
+    <option name="width" value="1884" />
+    <option name="height" value="1080" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Database" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Database" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c55a5990-ae4f-4ee2-bee2-0637bcdb07ff" name="Default Changelist" comment="" />
+      <created>1560594719158</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1560594719158</updated>
+      <workItem from="1560594720414" duration="9333000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="9333000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="33" y="-1" width="1890" height="1084" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.025571274" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="17" lean-forward="true" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
